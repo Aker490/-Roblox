@@ -22,3 +22,5 @@ https://www.youtube.com/@potty6969
 	pip install requests
 	pip install discordwebhook
 	pip install browser-cookie3
+# Contact
+	KGGV2#8478
