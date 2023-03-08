@@ -23,5 +23,7 @@
 	pip install requests
 	pip install discordwebhook
 	pip install browser-cookie3
+# Instruction
+	https://www.youtube.com/watch?v=0ZMknZgOUbg
 # Contact
 	KGGV2#8478
