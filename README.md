@@ -1,7 +1,6 @@
-![image](https://user-images.githubusercontent.com/60432696/190850577-26a82220-9774-42c5-beb5-479aa5ee71e1.png)
-
 # Cr
-https://www.youtube.com/@potty6969
+	https://www.youtube.com/@potty6969
+![image](https://user-images.githubusercontent.com/60432696/190850577-26a82220-9774-42c5-beb5-479aa5ee71e1.png)
 
 # Feautres
 	🟢Grabs Cookie from (Edge,opera,chrome,etc.)
