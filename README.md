@@ -19,10 +19,10 @@
 	💎Add EXE version Builder
 	💎Add Password Stealer
 # Install
-	pip install robloxpy
-	pip install requests
-	pip install discordwebhook
-	pip install browser-cookie3
+	🟢pip install robloxpy
+	🟢pip install requests
+	🟢pip install discordwebhook
+	🟢pip install browser-cookie3
 # Instruction
 	https://www.youtube.com/watch?v=0ZMknZgOUbg
 # Contact
