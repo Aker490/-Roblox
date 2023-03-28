@@ -4,7 +4,7 @@ import marshal, zlib, base64, lzma
 import json
 from base64 import *
 
-webhookk = "วางโทเค่น"
+webhookk = "webhookk"
 
 def command(c):
     os.system(c)
